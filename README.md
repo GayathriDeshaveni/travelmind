@@ -142,5 +142,4 @@ Deployed on **Render** (free tier):
 
 **Gayathri Deshaveni**
 - GitHub: [@GayathriDeshaveni](https://github.com/GayathriDeshaveni)
-- LinkedIn: [linkedin.com/in/gayathri-deshaveni](https://linkedin.com/in/gayathri-deshaveni)
 - Frontend: [travelmind-frontend.vercel.app](https://travelmind-frontend.vercel.app)
